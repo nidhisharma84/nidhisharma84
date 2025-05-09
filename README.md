@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**nidhisharma84/nidhisharma84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nidhi Sharma** is a Java Full Stack Developer with knowledge of core java,Advance java, Sql, Web Technologies.
 
 Here are some ideas to get you started:
 
